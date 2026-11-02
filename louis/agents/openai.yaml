@@ -1,0 +1,4 @@
+interface:
+  display_name: "louis"
+  short_description: "English UI, marketing, and documentation copy"
+  default_prompt: "Use $louis to write or edit English text for an interface, marketing, or documentation task."
