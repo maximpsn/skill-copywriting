@@ -7,4 +7,4 @@ Russian and English copywriting for interfaces, marketing, and documentation.
 
 ---
 
-Based on [deslop/sasha](https://github.com/mishanaer/deslop/blob/main/sasha/SKILL.md).
+Based on [deslop/sasha](https://github.com/mishanaer/deslop/tree/main).
